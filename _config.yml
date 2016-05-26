@@ -1,0 +1,28 @@
+name: The New Austinites
+favicon: null
+layout_spectrum: 0.045392306288704276
+typography_spectrum: 0.22591339680366218
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1043852991424501
+  lightness: 0.8553635554853827
+  saturation: 0.20445634238421917
+  rhythmicContrast: 0.5141738816164434
+purpose: []
